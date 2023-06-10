@@ -30,6 +30,6 @@ This is a simple Python application that allows you to generate strong passwords
     python main.py
     
     
-##Contributing
+## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the existing code style and add appropriate tests for new features.
